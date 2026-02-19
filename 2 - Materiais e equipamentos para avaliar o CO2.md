@@ -1,4 +1,4 @@
-Para avaliar o CO2 produzido por sementes, foram utilizados um sensor MHZ19B conectado a um controlador Wemos D1.
+Para avaliar o CO2 produzido por sementes, utilizar um sensor MHZ19B conectado a um controlador Wemos D1.
 
 Etapas de preparação:
 
