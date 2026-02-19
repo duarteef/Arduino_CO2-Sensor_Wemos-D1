@@ -18,4 +18,5 @@ Avaliação do CO2 produzido pelas sementes:
 13. Colocar a amostra em condições de temperatura controlada à 25˚C no interior de uma câmara germinadora, com fotoperíodo de 12 horas.
 14. Acompanhar de forma remota a emissão de CO₂ registrada a cada 5 minutos no canal previamente criado no ThingSpeak.
 15. Ao final da avaliação os dados devem ser baixados do ThingSpeak, em arquivo no formato CSV, sendo posteriormente tratados e retirados os “outliers”, obtendo-se os resultados médios a cada hora.
-16. Fazer a normalização dos resultados, pela subtração dos valores de CO₂ do substrato úmido dos valores do CO₂ das sementes, isso é necessário pelo recipiente não ser totalmente hermético.Apresentar os dados em mg^-1.L^-1.g^-1 de matéria seca, dividindo os valores do CO₂ normalizado, pela massa seca das sementes (descontar o percentual de umidade da subamostra usada para determinar o CO₂). Desconsiderar valores menores que zero.
+16. Fazer a normalização dos resultados, pela subtração dos valores de CO₂ do substrato úmido dos valores do CO₂ das sementes, isso é necessário pelo recipiente não ser totalmente hermético.
+17. Apresentar os dados em mg^-1.L^-1.g^-1 de matéria seca, dividindo os valores do CO₂ normalizado, pela massa seca das sementes (descontar o percentual de umidade da subamostra usada para determinar o CO₂). Desconsiderar valores menores que zero.
