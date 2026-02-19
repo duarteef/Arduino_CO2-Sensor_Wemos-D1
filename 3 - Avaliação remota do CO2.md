@@ -6,7 +6,7 @@ Avaliação prévia do CO2 no recipiente:
 4. Desconectou-se o computador do controlador (cabo USB-MiniUSB).
 5. O recipiente foi colocado em condições de temperatura controlada à 25˚C no interior de uma câmara germinadora, com fotoperíodo de 12 horas.
 6. Acompanhamos de forma remota a emissão de CO2 registrada a cada 5 minutos no canal previamente criado no ThingSpeak.
-7. Ao final da avaliação dos dados foram baixados do ThingSpeak, em arquivo no formato CSV, sendo posteriormente tratados e retirados os outliers, obtendo-se os resultados médios a cada hora.
+7. Ao final da avaliação dos dados foram baixados do ThingSpeak, em arquivo no formato CSV, sendo posteriormente tratados e retirados os "outliers", obtendo-se os resultados médios a cada hora.
 
 Avaliação do CO2 produzido pelas sementes:
 
@@ -17,6 +17,6 @@ Avaliação do CO2 produzido pelas sementes:
 12. Desconectou-se o computador do controlador (cabo USB-MiniUSB).
 13. A amostra foi colocada em condições de temperatura controlada à 25˚C no interior de uma câmara germinadora, com fotoperíodo de 12 horas.
 14. Acompanhamos de forma remota a emissão de CO2 registrada a cada 5 minutos no canal previamente criado no ThingSpeak.
-15. Ao final da avaliação dos dados foram baixados do ThingSpeak, em arquivo no formato CSV, sendo posteriormente tratados e retirados os outliers, obtendo-se os resultados médios a cada hora.
+15. Ao final da avaliação dos dados foram baixados do ThingSpeak, em arquivo no formato CSV, sendo posteriormente tratados e retirados os "outliers", obtendo-se os resultados médios a cada hora.
 16. Fez-se a normalização dos resultados pela subtração dos valores de CO2 do substrato úmido dos valores do CO2 das sementes e do substrato úmido, isso é necessário pelo recipiente não ser totalmente hermético.
 17. Fez-se apresentação dos dados em mg^-1.L^-1.g^-1 de matéria seca.
