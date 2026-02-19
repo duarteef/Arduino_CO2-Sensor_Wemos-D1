@@ -11,7 +11,7 @@ Avaliação prévia do CO2 no recipiente:
 Avaliação do CO2 produzido pelas sementes:
 
 8. As sementes foram previamente homogenizadas, obtidas a submostra de trabalho composta por 25 sementes (o número de sementes pode ser reduzido quando as sementes forem grandes), a qual foi pesada em balança analítica.
-9. Realizou-se a higinização do recipiente com álcool 70%, novas folhas de papel mata borrão foram umedecidas e foram colocadas as sementes sobre o substrato.
+9. Realizou-se a higienização do recipiente com álcool 70%, novas folhas de papel mata-borrão foram umedecidas e foram colocadas as sementes sobre o substrato.
 10. Fez-se o fechamento do recipiente de poliestireno transparente de forma lenta, para evitar o aumento da pressão interna (evitar aumento da concentração de gases, incluíndo do CO2).
 11. Conectou-se uma fonte de alimentação de energia externa bivolt (tensão de saída 6-20 Volts) que estava previamente ligada na rede elétrica, no Conector DC do controlador Wemos D1.
 12. Desconectou-se o computador do controlador (cabo USB-MiniUSB).
